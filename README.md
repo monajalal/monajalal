@@ -3,7 +3,7 @@
   
 - I am looking forward to my first 5K run, first 100 mile road bike, and first 10,000 m indoor rowing. On a weekly basis, I do 1+ hr of Strength Training, 2+ hr of yoga (mainly vinyasa and yin), and at least 5+ miles of logged walk. In between, I try to do PT or road cycling depending on the weather. I strongly believe a healthy mind is inside a healthy brain and body and mind body health has a high priority in my daily life.
 
-- 🌱 I’m currently learning and actively using Docker, Azure MLOps, ROS, Azure DevOps, Bazel, ...
+- I am currently learning more on BlenderProc and Omniverse Isaam Sim Python Coding.
 - 💞️ I’m looking to collaborate on 3D Pose Estimation and reconstruction (both dense and sparse)
 - I am actively reviewing research conferences in 3D computer vision submitted to top computer vision conferences and journals. 
 - I am looking forward to research talk opportunities as well as becoming a co-organizer for research workshops in computer vision and deep learning. 
