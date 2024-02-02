@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @monajalal , proudly a former first-gen college student, and currently working as a Computer Vision Research Engineer III at Toyota Material Handling headquarter in Columbus, Indiana.
+- 👋 Hi, I’m @monajalal , proudly a former first-gen college student, and currently working as a Senior Computer Vision Research Engineer at Toyota Material Handling headquarter in Columbus, Indiana focusing on 3D Computer Vision using Deep Learning and Synthetic Data.
 - 👀 I’m interested in Computer Vision and Deep Learning research and development and its cross-sections with robotics perception, computer graphics, and natural language understanding. Outside of work, I am interested in endurance road cycling, cooking, indoor rowing, and walking. Since 2015, I have moved to smart home technologies after spending 1 year as a research assistant at the Internet of Things lab at the University of Wisconsin-Madison. I like to automate stuff in the house, on my bike, and on my computer(s). 
 I am looking forward to my first 5K run, first 100 mile road bike, and first 10,000 m indoor rowing.
 
