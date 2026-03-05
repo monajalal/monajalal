@@ -9,7 +9,7 @@
 - 💞️ I’m looking to collaborate on 6D Pose Estimation and 3D reconstruction (both dense and sparse)
 - I am actively reviewing research conferences in 3D computer vision submitted to top computer vision conferences and journals. 
 - I am looking forward to research talk opportunities as well as becoming a co-organizer for research workshops in computer vision and deep learning. 
-- 📫 You can reach me via jalal@cs.wisc.edu
+- 📫 You can reach me via jalal@wisc.edu
 
 <!---
 monajalal/monajalal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
